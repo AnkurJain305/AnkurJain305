@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Machine Learning & Deep Learning .<br>👯 I’m looking to collaborate on Gen-AI & ML<br>🤝 I’m looking for help with Optimizing Solutions using AI .<br>🌱 I’m currently learning Cloud Services. <br>💬 Ask me abou AI , ML and some tech stuff .<br>⚡ Fun Fact "The best error message is the one that never shows up." ...
 
 
 ## 🌐 Socials:
